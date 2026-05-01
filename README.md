@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=F2A7B8&size=22&lines=learning+•+building+•+improving" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6A4B4&height=80&section=header"/>
+</p>
+
 ---
 
 ### About me
@@ -23,3 +27,7 @@
 ---
 
 > not rushing. just growing.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6A4B4&height=80&section=header"/>
+</p>
