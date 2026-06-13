@@ -20,7 +20,20 @@
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-FE428E?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-68CEC5?style=for-the-badge&logo=c&logoColor=141321) ![HTML5](https://img.shields.io/badge/html5-F8D847?style=for-the-badge&logo=html5&logoColor=141321)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![C++](https://img.shields.io/badge/c++-FE428E?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-68CEC5?style=for-the-badge&logo=c&logoColor=141321) 
+![HTML5](https://img.shields.io/badge/html5-F8D847?style=for-the-badge&logo=html5&logoColor=141321)
+![CSS3](https://img.shields.io/badge/css3-4A90E2?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=samruddhimeshram1511-sys&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
